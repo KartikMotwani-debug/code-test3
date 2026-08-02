@@ -14,3 +14,10 @@ print(f"{multi(3,4)}")
 print(f"{multi(5,6)}")
 print(f"{multi(7,8)}")
 
+def per(a,b)
+    return a*b/100
+
+print(f"{per(1,2)}") 
+print(f"{per(3,4)}")
+print(f"{per(5,6)}")
+print(f"{per(7,8)}")
