@@ -21,3 +21,11 @@ print(f"{per(1,50)}")
 print(f"{per(3,60)}")
 print(f"{per(5,90)}")
 print(f"{per(7,45)}")
+
+def div(a,b):
+    return a/b
+
+print(f"{div(1,50)}") 
+print(f"{div(3,60)}")
+print(f"{div(5,90)}")
+print(f"{div(7,45)}")
